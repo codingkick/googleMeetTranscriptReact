@@ -1,0 +1,16 @@
+//for register
+export const REGISTER_START='REGISTER_START';
+export const REGISTER_SUCCESS='REGISTER_SUCCESS';
+export const REGISTER_FAILED='REGISTER_FAILED';
+
+//for google login
+export const GOOGLE_LOGIN_START='GOOGLE_LOGIN_START';
+export const GOOGLE_LOGIN_SUCCESS='GOOGLE_LOGIN_SUCCESS';
+export const GOOGLE_LOGIN_FAILED='GOOGLE_LOGIN_FAILED';
+
+//for logout
+export const LOGOUT_START='LOGOUT_START';
+export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+export const LOGOUT_FAILED='LOGOUT_FAILED';
+
+export const SET_USER='SET_USER';
