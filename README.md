@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Link of the related extension : https://github.com/codingkick/googleMeetTranscript-generator
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
